@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+  display: flex;
+  column-gap: 20px;
+}
+.box {
+  height: 200px;
+  width: 200px;
+  background-color: yellow;
+  text-align: center;
+}
